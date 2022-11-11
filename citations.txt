@@ -1,0 +1,50 @@
+
+@article{guo2021sample,
+  title={Sample and Computation Redistribution for Efficient Face Detection},
+  author={Guo, Jia and Deng, Jiankang and Lattas, Alexandros and Zafeiriou, Stefanos},
+  journal={arXiv preprint arXiv:2105.04714},
+  year={2021}
+}
+
+@inproceedings{an2020partical_fc,
+  title={Partial FC: Training 10 Million Identities on a Single Machine},
+  author={An, Xiang and Zhu, Xuhan and Xiao, Yang and Wu, Lan and Zhang, Ming and Gao, Yuan and Qin, Bin and
+  Zhang, Debing and Fu Ying},
+  booktitle={Arxiv 2010.05222},
+  year={2020}
+}
+
+@inproceedings{deng2020subcenter,
+  title={Sub-center ArcFace: Boosting Face Recognition by Large-scale Noisy Web Faces},
+  author={Deng, Jiankang and Guo, Jia and Liu, Tongliang and Gong, Mingming and Zafeiriou, Stefanos},
+  booktitle={Proceedings of the IEEE Conference on European Conference on Computer Vision},
+  year={2020}
+}
+
+@inproceedings{Deng2020CVPR,
+title = {RetinaFace: Single-Shot Multi-Level Face Localisation in the Wild},
+author = {Deng, Jiankang and Guo, Jia and Ververas, Evangelos and Kotsia, Irene and Zafeiriou, Stefanos},
+booktitle = {CVPR},
+year = {2020}
+}
+
+@inproceedings{guo2018stacked,
+  title={Stacked Dense U-Nets with Dual Transformers for Robust Face Alignment},
+  author={Guo, Jia and Deng, Jiankang and Xue, Niannan and Zafeiriou, Stefanos},
+  booktitle={BMVC},
+  year={2018}
+}
+
+@article{deng2018menpo,
+  title={The Menpo benchmark for multi-pose 2D and 3D facial landmark localisation and tracking},
+  author={Deng, Jiankang and Roussos, Anastasios and Chrysos, Grigorios and Ververas, Evangelos and Kotsia, Irene and Shen, Jie and Zafeiriou, Stefanos},
+  journal={IJCV},
+  year={2018}
+}
+
+@inproceedings{deng2018arcface,
+title={ArcFace: Additive Angular Margin Loss for Deep Face Recognition},
+author={Deng, Jiankang and Guo, Jia and Niannan, Xue and Zafeiriou, Stefanos},
+booktitle={CVPR},
+year={2019}
+}
