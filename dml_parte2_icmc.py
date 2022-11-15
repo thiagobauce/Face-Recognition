@@ -125,7 +125,7 @@ import cv2
 import numpy as np
 import torch
 
-from backbones import get_model
+from  import get_model
 
 model = get_model('r50', fp16=False)
 
